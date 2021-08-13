@@ -2,5 +2,5 @@
 
 | Screen |  
 | --- |  
-| ![](https://github.com/jervygu/test-ChangeVCColorUsingNotifObservers/blob/master/screenshot/ChangeColorVC.gif?raw=true) |
+| ![](https://github.com/jervygu/test-CollectionView_inside_tableViewCell/blob/master/screenshot/CollectionView_in_TableViewCell.gif) |
 
